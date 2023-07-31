@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyApi</name>
+    </assembly>
+    <members>
+        <member name="M:MyApi.Controllers.v1.UserController.Token(MyApi.Models.TokenRequest,System.Threading.CancellationToken)">
+            <summary>
+            
+            </summary>
+            <param name="tokenRequest">the information of token requrest</param>
+            <param name="cancellationToken"></param>
+            <returns></returns>
+            <exception cref="T:Common.Exceptions.AppException"></exception>
+            <exception cref="T:Common.Exceptions.BadRequestException"></exception>
+        </member>
+    </members>
+</doc>
